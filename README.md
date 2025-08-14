@@ -8,3 +8,4 @@ Dashboard showing Sales KPIs, Revenue, Profit, Inventory.
 - [2025-06-22] Refactored controllers.
 - [2025-06-26] Integrated API endpoints.
 - [2025-07-12] Integrated API endpoints.
+- [2025-08-14] Implemented new module architecture.
