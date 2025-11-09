@@ -14,3 +14,4 @@ Dashboard showing Sales KPIs, Revenue, Profit, Inventory.
 - [2025-10-28] Updated dependencies.
 - [2025-11-02] Updated UI components.
 - [2025-11-08] Added documentation for recent changes.
+- [2025-11-09] Refactored controllers.
