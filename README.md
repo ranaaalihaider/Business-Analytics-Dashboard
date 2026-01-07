@@ -50,3 +50,4 @@ Dashboard showing Sales KPIs, Revenue, Profit, Inventory.
 - [2025-12-15] Minor performance improvement.
 - [2025-12-17] Minor performance improvement.
 - [2025-12-17] Minor performance improvement.
+- [2026-01-07] Adjusted logic flow.
