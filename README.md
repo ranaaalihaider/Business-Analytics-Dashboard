@@ -22,3 +22,4 @@ Dashboard showing Sales KPIs, Revenue, Profit, Inventory.
 - [2026-01-26] Implemented new module architecture.
 - [2026-02-07] Fixed state management bug.
 - [2026-02-23] Updated UI components.
+- [2026-04-04] Added documentation for recent changes.
