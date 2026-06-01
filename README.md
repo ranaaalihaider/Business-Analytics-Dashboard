@@ -67,3 +67,4 @@ Dashboard showing Sales KPIs, Revenue, Profit, Inventory.
 - [2026-04-25] Minor performance improvement.
 - [2026-05-05] Adjusted logic flow.
 - [2026-05-14] Updated inline comments.
+- [2026-06-01] Removed unused variables.
